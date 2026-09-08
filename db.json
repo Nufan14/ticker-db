@@ -1,12 +1,571 @@
 {
   "pinball": [
     {
+      "id": "addams-family",
+      "name": "The Addams Family",
+      "manufacturer": "Bally",
+      "year": 1992,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/addams-family.jpg"
+    },
+    {
+      "id": "twilight-zone",
+      "name": "Twilight Zone",
+      "manufacturer": "Bally",
+      "year": 1993,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/twilight-zone.jpg"
+    },
+    {
+      "id": "medieval-madness",
+      "name": "Medieval Madness",
+      "manufacturer": "Williams",
+      "year": 1997,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/medieval-madness.jpg"
+    },
+    {
+      "id": "attack-from-mars",
+      "name": "Attack from Mars",
+      "manufacturer": "Williams",
+      "year": 1995,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/attack-from-mars.jpg"
+    },
+    {
+      "id": "monster-bash",
+      "name": "Monster Bash",
+      "manufacturer": "Williams",
+      "year": 1998,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/monster-bash.jpg"
+    },
+    {
+      "id": "theatre-of-magic",
+      "name": "Theatre of Magic",
+      "manufacturer": "Bally",
+      "year": 1995,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/theatre-of-magic.jpg"
+    },
+    {
+      "id": "cirqus-voltaire",
+      "name": "Cirqus Voltaire",
+      "manufacturer": "Bally",
+      "year": 1997,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/cirqus-voltaire.jpg"
+    },
+    {
+      "id": "cactus-canyon",
+      "name": "Cactus Canyon",
+      "manufacturer": "Bally",
+      "year": 1998,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/cactus-canyon.jpg"
+    },
+    {
+      "id": "white-water",
+      "name": "White Water",
+      "manufacturer": "Bally",
+      "year": 1993,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/white-water.jpg"
+    },
+    {
       "id": "creature",
       "name": "Creature from the Black Lagoon",
       "manufacturer": "Bally",
       "year": 1992,
-      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/creature.jpg",
-      "notes": "Hologramme et ambiance 50's drive-in."
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/creature.jpg"
+    },
+    {
+      "id": "funhouse",
+      "name": "FunHouse",
+      "manufacturer": "Williams",
+      "year": 1990,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/funhouse.jpg"
+    },
+    {
+      "id": "terminator-2",
+      "name": "Terminator 2: Judgment Day",
+      "manufacturer": "Williams",
+      "year": 1991,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/terminator-2.jpg"
+    },
+    {
+      "id": "indiana-jones",
+      "name": "Indiana Jones: The Pinball Adventure",
+      "manufacturer": "Williams",
+      "year": 1993,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/indiana-jones.jpg"
+    },
+    {
+      "id": "star-trek-tng",
+      "name": "Star Trek: The Next Generation",
+      "manufacturer": "Williams",
+      "year": 1993,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/star-trek-tng.jpg"
+    },
+    {
+      "id": "road-show",
+      "name": "Road Show",
+      "manufacturer": "Williams",
+      "year": 1994,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/road-show.jpg"
+    },
+    {
+      "id": "fish-tales",
+      "name": "Fish Tales",
+      "manufacturer": "Williams",
+      "year": 1992,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/fish-tales.jpg"
+    },
+    {
+      "id": "bride-of-pinbot",
+      "name": "The Bride of Pin·Bot",
+      "manufacturer": "Williams",
+      "year": 1991,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/bride-of-pinbot.jpg"
+    },
+    {
+      "id": "whirlwind",
+      "name": "Whirlwind",
+      "manufacturer": "Williams",
+      "year": 1990,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/whirlwind.jpg"
+    },
+    {
+      "id": "earthshaker",
+      "name": "Earthshaker!",
+      "manufacturer": "Williams",
+      "year": 1989,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/earthshaker.jpg"
+    },
+    {
+      "id": "taxi",
+      "name": "Taxi",
+      "manufacturer": "Williams",
+      "year": 1988,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/taxi.jpg"
+    },
+    {
+      "id": "black-knight",
+      "name": "Black Knight",
+      "manufacturer": "Williams",
+      "year": 1980,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/black-knight.jpg"
+    },
+    {
+      "id": "black-knight-2000",
+      "name": "Black Knight 2000",
+      "manufacturer": "Williams",
+      "year": 1989,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/black-knight-2000.jpg"
+    },
+    {
+      "id": "high-speed",
+      "name": "High Speed",
+      "manufacturer": "Williams",
+      "year": 1986,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/high-speed.jpg"
+    },
+    {
+      "id": "getaway-high-speed-2",
+      "name": "The Getaway: High Speed II",
+      "manufacturer": "Williams",
+      "year": 1992,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/getaway-high-speed-2.jpg"
+    },
+    {
+      "id": "gorgar",
+      "name": "Gorgar",
+      "manufacturer": "Williams",
+      "year": 1979,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/gorgar.jpg"
+    },
+    {
+      "id": "firepower",
+      "name": "Firepower",
+      "manufacturer": "Williams",
+      "year": 1980,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/firepower.jpg"
+    },
+    {
+      "id": "sorcerer",
+      "name": "Sorcerer",
+      "manufacturer": "Williams",
+      "year": 1985,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/sorcerer.jpg"
+    },
+    {
+      "id": "comet",
+      "name": "Comet",
+      "manufacturer": "Williams",
+      "year": 1985,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/comet.jpg"
+    },
+    {
+      "id": "cyclone",
+      "name": "Cyclone",
+      "manufacturer": "Williams",
+      "year": 1988,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/cyclone.jpg"
+    },
+    {
+      "id": "hurricane",
+      "name": "Hurricane",
+      "manufacturer": "Williams",
+      "year": 1991,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/hurricane.jpg"
+    },
+    {
+      "id": "safe-cracker",
+      "name": "Safe Cracker",
+      "manufacturer": "Bally",
+      "year": 1996,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/safe-cracker.jpg"
+    },
+    {
+      "id": "scared-stiff",
+      "name": "Scared Stiff",
+      "manufacturer": "Bally",
+      "year": 1996,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/scared-stiff.jpg"
+    },
+    {
+      "id": "champion-pub",
+      "name": "The Champion Pub",
+      "manufacturer": "Bally",
+      "year": 1998,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/champion-pub.jpg"
+    },
+    {
+      "id": "no-good-gofers",
+      "name": "No Good Gofers",
+      "manufacturer": "Williams",
+      "year": 1997,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/no-good-gofers.jpg"
+    },
+    {
+      "id": "revenge-from-mars",
+      "name": "Revenge from Mars",
+      "manufacturer": "Bally",
+      "year": 1999,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/revenge-from-mars.jpg"
+    },
+    {
+      "id": "star-wars-de",
+      "name": "Star Wars",
+      "manufacturer": "Data East",
+      "year": 1992,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/star-wars-de.jpg"
+    },
+    {
+      "id": "jurassic-park",
+      "name": "Jurassic Park",
+      "manufacturer": "Data East",
+      "year": 1993,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/jurassic-park.jpg"
+    },
+    {
+      "id": "tales-from-the-crypt",
+      "name": "Tales from the Crypt",
+      "manufacturer": "Data East",
+      "year": 1993,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/tales-from-the-crypt.jpg"
+    },
+    {
+      "id": "tommy",
+      "name": "The Who's Tommy Pinball Wizard",
+      "manufacturer": "Data East",
+      "year": 1994,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/tommy.jpg"
+    },
+    {
+      "id": "last-action-hero",
+      "name": "Last Action Hero",
+      "manufacturer": "Data East",
+      "year": 1993,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/last-action-hero.jpg"
+    },
+    {
+      "id": "maverick",
+      "name": "Maverick",
+      "manufacturer": "Data East",
+      "year": 1994,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/maverick.jpg"
+    },
+    {
+      "id": "guns-n-roses",
+      "name": "Guns N' Roses",
+      "manufacturer": "Data East",
+      "year": 1994,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/guns-n-roses.jpg"
+    },
+    {
+      "id": "apollo-13",
+      "name": "Apollo 13",
+      "manufacturer": "Sega",
+      "year": 1995,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/apollo-13.jpg"
+    },
+    {
+      "id": "goldeneye",
+      "name": "GoldenEye",
+      "manufacturer": "Sega",
+      "year": 1996,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/goldeneye.jpg"
+    },
+    {
+      "id": "twister",
+      "name": "Twister",
+      "manufacturer": "Sega",
+      "year": 1996,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/twister.jpg"
+    },
+    {
+      "id": "space-jam",
+      "name": "Space Jam",
+      "manufacturer": "Sega",
+      "year": 1996,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/space-jam.jpg"
+    },
+    {
+      "id": "lost-in-space",
+      "name": "Lost in Space",
+      "manufacturer": "Sega",
+      "year": 1998,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/lost-in-space.jpg"
+    },
+    {
+      "id": "godzilla-sega",
+      "name": "Godzilla",
+      "manufacturer": "Sega",
+      "year": 1998,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/godzilla-sega.jpg"
+    },
+    {
+      "id": "south-park",
+      "name": "South Park",
+      "manufacturer": "Sega",
+      "year": 1999,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/south-park.jpg"
+    },
+    {
+      "id": "harley-davidson",
+      "name": "Harley-Davidson",
+      "manufacturer": "Stern",
+      "year": 1999,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/harley-davidson.jpg"
+    },
+    {
+      "id": "austin-powers",
+      "name": "Austin Powers",
+      "manufacturer": "Stern",
+      "year": 2001,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/austin-powers.jpg"
+    },
+    {
+      "id": "monopoly",
+      "name": "Monopoly",
+      "manufacturer": "Stern",
+      "year": 2001,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/monopoly.jpg"
+    },
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "manufacturer": "Stern",
+      "year": 2001,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/nfl.jpg"
+    },
+    {
+      "id": "rollercoaster-tycoon",
+      "name": "RollerCoaster Tycoon",
+      "manufacturer": "Stern",
+      "year": 2002,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/rollercoaster-tycoon.jpg"
+    },
+    {
+      "id": "simpsons-pinball-party",
+      "name": "The Simpsons Pinball Party",
+      "manufacturer": "Stern",
+      "year": 2003,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/simpsons-pinball-party.jpg"
+    },
+    {
+      "id": "terminator-3",
+      "name": "Terminator 3: Rise of the Machines",
+      "manufacturer": "Stern",
+      "year": 2003,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/terminator-3.jpg"
+    },
+    {
+      "id": "lord-of-the-rings",
+      "name": "The Lord of the Rings",
+      "manufacturer": "Stern",
+      "year": 2003,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/lord-of-the-rings.jpg"
+    },
+    {
+      "id": "elvis",
+      "name": "Elvis",
+      "manufacturer": "Stern",
+      "year": 2004,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/elvis.jpg"
+    },
+    {
+      "id": "ripleys",
+      "name": "Ripley's Believe It or Not!",
+      "manufacturer": "Stern",
+      "year": 2004,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/ripleys.jpg"
+    },
+    {
+      "id": "sopranos",
+      "name": "The Sopranos",
+      "manufacturer": "Stern",
+      "year": 2005,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/sopranos.jpg"
+    },
+    {
+      "id": "grand-prix",
+      "name": "Grand Prix",
+      "manufacturer": "Stern",
+      "year": 2005,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/grand-prix.jpg"
+    },
+    {
+      "id": "world-poker-tour",
+      "name": "World Poker Tour",
+      "manufacturer": "Stern",
+      "year": 2006,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/world-poker-tour.jpg"
+    },
+    {
+      "id": "pirates-of-the-caribbean",
+      "name": "Pirates of the Caribbean",
+      "manufacturer": "Stern",
+      "year": 2006,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/pirates-of-the-caribbean.jpg"
+    },
+    {
+      "id": "spider-man",
+      "name": "Spider-Man",
+      "manufacturer": "Stern",
+      "year": 2007,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/spider-man.jpg"
+    },
+    {
+      "id": "shrek",
+      "name": "Shrek",
+      "manufacturer": "Stern",
+      "year": 2009,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/shrek.jpg"
+    },
+    {
+      "id": "indiana-jones-stern",
+      "name": "Indiana Jones",
+      "manufacturer": "Stern",
+      "year": 2008,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/indiana-jones-stern.jpg"
+    },
+    {
+      "id": "batman",
+      "name": "Batman",
+      "manufacturer": "Stern",
+      "year": 2008,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/batman.jpg"
+    },
+    {
+      "id": "csi",
+      "name": "CSI",
+      "manufacturer": "Stern",
+      "year": 2008,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/csi.jpg"
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "manufacturer": "Stern",
+      "year": 2009,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/nba.jpg"
+    },
+    {
+      "id": "big-buck-hunter",
+      "name": "Big Buck Hunter",
+      "manufacturer": "Stern",
+      "year": 2010,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/big-buck-hunter.jpg"
+    },
+    {
+      "id": "iron-man",
+      "name": "Iron Man",
+      "manufacturer": "Stern",
+      "year": 2010,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/iron-man.jpg"
+    },
+    {
+      "id": "tron-legacy",
+      "name": "TRON Legacy",
+      "manufacturer": "Stern",
+      "year": 2011,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/tron-legacy.jpg"
+    },
+    {
+      "id": "ac-dc",
+      "name": "AC/DC",
+      "manufacturer": "Stern",
+      "year": 2012,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/ac-dc.jpg"
+    },
+    {
+      "id": "avengers",
+      "name": "The Avengers",
+      "manufacturer": "Stern",
+      "year": 2012,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/avengers.jpg"
+    },
+    {
+      "id": "x-men",
+      "name": "X-Men",
+      "manufacturer": "Stern",
+      "year": 2012,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/x-men.jpg"
+    },
+    {
+      "id": "metallica",
+      "name": "Metallica",
+      "manufacturer": "Stern",
+      "year": 2013,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/metallica.jpg"
+    },
+    {
+      "id": "star-trek-stern",
+      "name": "Star Trek",
+      "manufacturer": "Stern",
+      "year": 2013,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/star-trek-stern.jpg"
+    },
+    {
+      "id": "mustang",
+      "name": "Mustang",
+      "manufacturer": "Stern",
+      "year": 2014,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/mustang.jpg"
+    },
+    {
+      "id": "walking-dead",
+      "name": "The Walking Dead",
+      "manufacturer": "Stern",
+      "year": 2014,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/walking-dead.jpg"
+    },
+    {
+      "id": "game-of-thrones",
+      "name": "Game of Thrones",
+      "manufacturer": "Stern",
+      "year": 2015,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/game-of-thrones.jpg"
+    },
+    {
+      "id": "stranger-things",
+      "name": "Stranger Things Pro",
+      "manufacturer": "Stern",
+      "year": 2019,
+      "image": "https://raw.githubusercontent.com/Nufan14/ticker-db/main/images/stranger-things.jpg"
     }
   ],
   "citations": [
